@@ -1,0 +1,131 @@
+﻿<dict>
+    <key>getMenoy</key>
+    <string>获得金币</string>
+
+	<key>content0</key>
+    <string>造型经典,火力多样</string>
+
+
+	<key>player1</key>
+    <string>选择雷霆战机</string>
+
+	<key>content1</key>
+    <string>造型古朴,能锁定目标</string>
+
+
+	<key>player2</key>
+    <string>选择尖峰战机</string>
+
+	<key>content2</key>
+    <string>冷冻时间,火力多样</string>
+
+
+	<key>contentBuy</key>
+    <string>点击购买</string>
+
+	<key>needMenoy</key>
+    <string>金币不足</string>
+
+	<key>needService</key>
+    <string>不能连接服务器</string>
+
+	<key>buySuc0</key>
+    <string>购买成功</string>
+
+	<key>needplayer1</key>
+    <string>1000金币购买战机</string>
+
+	<key>needplayer2</key>
+    <string>2000金币购买战机</string>
+	
+	
+	<key>upOK</key>
+    <string>升级成功！</string>
+	
+	<key>equipOK</key>
+    <string>装备成功！</string>
+	
+	<key>getGold</key>
+    <string>获得%d金币</string>
+	
+	<key>buyOK</key>
+    <string>购买成功！</string>
+	
+	<key>moneyError</key>
+    <string>金币不足！</string>
+    
+    <key>videoError</key>
+    <string>视频加载失败稍后再试！</string>
+	
+	<key>award</key>
+    <string>恭喜你获得金币奖励：%d</string>
+	
+	<key>plane0</key>
+    <string>追击者</string>
+	<key>plane1</key>
+    <string>烈火凤凰</string>
+	<key>plane2</key>
+    <string>大将军</string>
+	<key>plane3</key>
+    <string>海妖</string>
+	<key>plane4</key>
+    <string>噬魂魔灵</string>
+	<key>plane5</key>
+    <string>复仇女神号</string>
+	
+	
+	
+	<key>task0</key>
+    <string>击杀BOSS</string>
+	
+	<key>task1</key>
+    <string>击杀全部敌人</string>
+	
+	<key>reward1</key>
+    <string>机枪守卫</string>
+	
+	<key>reward2</key>
+    <string>M1飞弹</string>
+	
+	<key>reward39</key>
+    <string>穿甲弹</string>
+	
+	<key>reward19</key>
+    <string>太合金护甲</string>
+	
+	<key>rewardAll</key>
+    <string>金币X%d</string>
+
+	<key>guideTip</key>
+    <string>教程模式无法退出</string>
+	
+	<key>endless</key>
+    <string>5关之后开启！</string>
+	
+	<key>starTip</key>
+    <string>您的星数不足！</string>
+	
+	<key>cjNoneTip</key>
+    <string>很遗憾</string>
+	
+	<key>openTip</key>
+    <string>无尽模式已开启！</string>
+	
+	<key>priceTip</key>
+    <string>消耗金币%d</string>
+	
+	
+	<key>signInTip0</key>
+    <string>恭喜您获得大将军战机！</string>
+	
+	<key>signInTip1</key>
+    <string>连续签到天数越多奖励越多哦！</string>
+	
+	<key>signInTip2</key>
+    <string>继续努力，第三天就会赠送战机哦！</string>
+	
+	
+	
+
+	
+</dict>
